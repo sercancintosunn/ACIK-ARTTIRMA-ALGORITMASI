@@ -1,7 +1,8 @@
 # ACIK-ARTTIRMA-ALGORITMASI
 
 Hazırlayan
-Sercan Çintosun ->- 1230505015
+Sercan Çintosun --> 1230505015
+Burak Çavuşoğlu --> 5230505068
 
 İlk başta teklifi verenin  adını giriyoruz sonra vereceğimiz teklifi giriyoruz.
 2 kere -1 e basmadan açık arttırma devam ediyor.
